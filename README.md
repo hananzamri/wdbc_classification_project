@@ -114,12 +114,23 @@ python3 wdbc_classification.py
 ---
 
 ## Output Files
-The program will:
-- Train multiple classifiers
-- Display evaluation metrics
-- Generate visualization images automatically:
-   - `wdbc_classification_matrix.png`
-   - `wdbc_classification_scatter.png`
+
+The program automatically generates:
+
+- `wdbc_classification_matrix.png`
+- `wdbc_classification_scatter.png`
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](wdbc_classification_matrix.png)
+
+---
+
+### Scatter Plot
+
+![Scatter Plot](wdbc_classification_scatter.png)
 
 ---
 
