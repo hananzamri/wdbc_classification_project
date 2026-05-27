@@ -1,0 +1,19 @@
+Wisconsin Diagnostic Breast Cancer (WDBC) Classification Project Report
+
+1. Classifiers Tested
+- Support Vector Machine (SVM)
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+- Random Forest
+
+2. Best Accuracy
+The Random Forest and Decision Tree classifier give the best accuracy.
+
+3. Confusion Matrix
+The confusion matrix shows the number of correct and incorrect predictions made by the model.
+
+4. Predicting Both Classes
+The model performed well in predicting both malignant and benign classes with high accuracy.
+
+5. Importance of Documentation
+Documentation is important in open-source machine learning projects because it helps users understand the project, install requirements, run the code, and reproduce results easily.
